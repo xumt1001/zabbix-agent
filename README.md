@@ -22,7 +22,7 @@ useradd zabbix
 修改
 server=
 serverActive=zabbixserver的公网IP
-修改Hostname=astro_bazar
+修改Hostname=xxxxxx
 
 
 报错：
